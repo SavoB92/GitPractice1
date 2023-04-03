@@ -6,5 +6,9 @@ public class Main {
         c1.name = "Hamid";
         c1.age = "24";
 
+        OlhaFeatures of = new OlhaFeatures();
+        of.name = "Olha";
+        of.age = 21;
+
     }
 }
