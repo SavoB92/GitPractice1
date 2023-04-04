@@ -6,15 +6,15 @@ public class Main {
         c1.name = "Hamid";
         c1.age = "24";
 
-<<<<<<< HEAD
+
         SavoFeatures sf = new SavoFeatures();
         sf.age = 31;
         sf.name = "Savo";
-=======
+
         OlhaFeatures of = new OlhaFeatures();
         of.name = "Olha";
         of.age = 21;
->>>>>>> Olha
+
 
     }
 }
